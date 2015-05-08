@@ -1,0 +1,1 @@
+tail -f /local/apps/connusr/wls1033v9/user_projects/domains/connect_qastg_domain/logs/connectlogs/connect-app.log
